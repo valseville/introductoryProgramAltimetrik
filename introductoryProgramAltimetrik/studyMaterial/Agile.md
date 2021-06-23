@@ -56,11 +56,12 @@ The kanban is a visual workflow management method that complements scrum, and al
  
 
 **Links**
-https://www.scrum.org/resources/what-is-scrum
-https://www.visual-paradigm.com/scrum/what-is-agile-software-development/
-https://www.visual-paradigm.com/scrum/what-are-scrum-three-pillars/
-https://warren2lynch.medium.com/the-brief-of-history-of-scrum-15efb73b4701
-https://en.wikipedia.org/wiki/Agile_software_development
-https://en.wikipedia.org/wiki/Scrum_(software_development)
+
+- https://www.scrum.org/resources/what-is-scrum
+- https://www.visual-paradigm.com/scrum/what-is-agile-software-development/
+- https://www.visual-paradigm.com/scrum/what-are-scrum-three-pillars/
+- https://warren2lynch.medium.com/the-brief-of-history-of-scrum-15efb73b4701
+- https://en.wikipedia.org/wiki/Agile_software_development
+- https://en.wikipedia.org/wiki/Scrum_(software_development)
 
  
