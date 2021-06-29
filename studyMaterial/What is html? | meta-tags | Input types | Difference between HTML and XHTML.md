@@ -44,12 +44,18 @@ Metadata will not be displayed on the page but is machine parsable.
 Metadata is used by browsers (how to display content or reload the page), search engines (keywords), and other web services.
 There is a method to let web designers take control over the viewport (the user's visible area of a web page), through the ```<meta>``` tag
 E.g.
-```<head>```
- ``` <meta charset="UTF-8">```
- ``` <meta name="description" content="Free Web tutorials">```
- ``` <meta name="keywords" content="HTML, CSS, JavaScript">```
-  ```<meta name="author" content="John Doe">```
-  ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
+```<head>```  
+
+``` <meta charset="UTF-8">```  
+
+ ``` <meta name="description" content="Free Web tutorials">```  
+
+ ``` <meta name="keywords" content="HTML, CSS, JavaScript">```  
+
+  ```<meta name="author" content="John Doe">```  
+
+  ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```  
+
 ```</head>```
 
 **Open Graph meta tags**
@@ -61,25 +67,40 @@ og:type - The type of your object, e.g., "video.movie". Depending on the type yo
 og:image - An image URL that should represent your object within the graph.
 og:url - The canonical URL of your object that will be used as its permanent ID in the graph, e.g., "https://www.imdb.com/title/tt0117500/".
 Usage e.g.
-```<meta property="og:title" content="How to Become an SEO Expert (8 Steps)" />```
-```<meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />```
+```<meta property="og:title" content="How to Become an SEO Expert (8 Steps)" />```  
+
+```<meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />```  
+
 ```<meta property="og:image" content="https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png" />```
 
 **Input Types in HTML**
 Input is put (data) into a computer, for this, we have a different types depending on what information the web or app requires. The most common input types are: 
-```<input type="button">```
-```<input type="checkbox">```
-```<input type="color">```
-```<input type="date">```
-```<input type="email">```
-```<input type="file">```
-```<input type="image">```
-```<input type="month">```
-```<input type="number">```
-```<input type="password">```
-```<input type="search">```
-```<input type="submit">```
-```<input type="tel">```
+```<input type="button">```  
+
+```<input type="checkbox">```  
+
+```<input type="color">```  
+
+```<input type="date">```  
+
+```<input type="email">```  
+
+```<input type="file">```  
+
+```<input type="image">```  
+
+```<input type="month">```  
+
+```<input type="number">```  
+
+```<input type="password">```  
+
+```<input type="search">```  
+
+```<input type="submit">```  
+
+```<input type="tel">```  
+
 ```<input type="text">```
 
 ## Links
