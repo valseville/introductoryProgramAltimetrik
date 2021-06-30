@@ -1,5 +1,5 @@
 # Data-Attribute
-Are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.
+Datal-Attributes are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.
 
 HTML5 is designed with extensibility in mind for data that should be associated with a particular element but need not have any defined meaning. ```data-*``` attributes allow us to store extra information on standard, semantic HTML elements without other hacks such as non-standard attributes, or extra properties on DOM.
 

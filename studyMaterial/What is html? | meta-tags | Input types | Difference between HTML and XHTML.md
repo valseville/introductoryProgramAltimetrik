@@ -59,7 +59,7 @@ E.g.
 ```</head>```
 
 **Open Graph meta tags**
-Are snippets of code that control how URLs are displayed when shared on social media. 
+Open Graph meta tags are snippets of code that control how URLs are displayed when shared on social media. 
 They’re part of Facebook’s Open Graph protocol and are also used by other social media sites, including LinkedIn and Twitter (if Twitter Cards are absent).
 You can find them in the ```<head>``` section of a webpage. Any tags with ```og:``` before a property name are Open Graph tags.
 og:title - The title of your object as it should appear within the graph, e.g., "The Rock".
@@ -74,7 +74,7 @@ Usage e.g.
 ```<meta property="og:image" content="https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png" />```
 
 **Input Types in HTML**
-Input is put (data) into a computer, for this, we have a different types depending on what information the web or app requires. The most common input types are: 
+Inputs are a way to put (data) into a computer,  for this we have a different types depending on what information the web or app requires. The most common input types are: 
 ```<input type="button">```  
 
 ```<input type="checkbox">```  
